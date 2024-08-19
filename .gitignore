@@ -1,0 +1,11 @@
+# Ignore all files in the checkpoints directory
+exe_1_build_torch_model/checkpoints/
+
+# Ignore all files in the mlruns directory
+exe_1_build_torch_model/mlruns/
+
+# Ignore all files in the data directory
+exe_1_build_torch_model/data/
+
+# private keys
+README-KEYS.md
