@@ -2,6 +2,8 @@
 
 This tutorial demonstrates how to train a Neural Network in Python and deploy the model in C++
 
+![Torch C++ Deployment](https://github.com/ZachWolpe/cpp-torch-deployment/raw/main/torch-cpp.png)
+
 ### Overview
 
 1. Train (or download) a PyTorch model.
